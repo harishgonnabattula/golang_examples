@@ -12,3 +12,9 @@ Go was designed and developed to make working in this environment more productiv
 ## Useful Links
 
 * [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
+
+
+## Reference
+
+* https://talks.golang.org/2012/splash.article
+* https://en.wikipedia.org/wiki/Go_(programming_language)
